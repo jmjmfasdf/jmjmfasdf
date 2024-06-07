@@ -37,6 +37,7 @@
   - College AI Group **[PROMETHEUS](https://github.com/Prometheus-AI-Project)** 4th `2023.06 ~`
   - Coding Educator DORO 5th `2024.03 ~`
   - Yonsei Univ. Rockband **[MEDUSA](https://www.youtube.com/@yonseimedusa_official)** Chief `2022.10 ~ 2024.02`
+</p>>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
