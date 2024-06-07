@@ -30,6 +30,16 @@
   </a>
 </p>
 
+### Career
+  - Yonsei Univ. **Student council of Dept. of Biotechnology** '2019.03 ~ 2020.12'
+  - Yonsei Univ. Life science **Biotechnology (AI integrated course)** `2019.03 ~`
+  - Yonsei Univ. Nanoscience & Medical engineering Academy **NanoSEA 7th** '2023.03 ~ 2023.06'
+  - Yonsei Univ. Brain & Cognitive Science Academy **Congsci:IN 12th(President)** '2023.03 ~ 2023.12'
+  - Yonsei Univ. AI Academy **YAI 12th** `2023.07 ~ 2024.12`
+  - Team **[HAEBARAGI](https://github.com/sunnybraille)** Deep Learning Engineer `2023.09 ~ 2024.04`
+  - College AI Group **[PROMETHEUS](https://github.com/Prometheus-AI-Project)** 4th `2023.06 ~`
+  - Coding Educator DORO 5th `2024.03 ~`
+  - Yonsei Univ. Rockband **[MEDUSA](https://www.youtube.com/@yonseimedusa_official)** Chief `2022.10 ~ 2024.02`
 
 ### 🤝🏻 &nbsp;Connect with Me
 
