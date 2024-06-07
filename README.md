@@ -13,7 +13,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-</p>
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://www.r-project.org/"target="blank">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
-</p>
+<br>
 
 ### 🔎 Career
   - Yonsei Univ. **Student council of Dept. of Biotechnology** `2019.03 ~ 2020.12`
@@ -37,7 +37,7 @@
   - College AI Group **[PROMETHEUS](https://github.com/Prometheus-AI-Project)** 4th `2023.06 ~`
   - Coding Educator DORO 5th `2024.03 ~`
   - Yonsei Univ. Rockband **[MEDUSA](https://www.youtube.com/@yonseimedusa_official)** Chief `2022.10 ~ 2024.02`
-</p>
+<br>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
