@@ -16,16 +16,16 @@
 
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
-  <a href="https://www.tensorflow.org" target="blank">
+  <a href="https://www.tensorflow.org"target="blank">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
   </a>
-  <a href="https://pytorch.org" target="blank">
+  <a href="https://pytorch.org"target="blank">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   </a>
-  <a href="https://www.python.org/" target="blank">
+  <a href="https://www.python.org/"target="blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
-  <a href="https://www.r-project.org/" target="blank">
+  <a href="https://www.r-project.org/"target="blank">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   </a>
 </p>
