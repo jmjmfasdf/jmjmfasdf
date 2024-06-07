@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=250&section=header&text=%22Hello!%20I'm%20Jeongmin%20Seo!%22&fontSize=70
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=250&section=header&text=Jeongmin%20Seo%22&fontSize=70
 )
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Jeongmin Seo</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello! I'm Jeongmin Seo</h2>
 
 <!-- ## 👋 &nbsp;Hello! I'm Jeongmin Seo -->
 
