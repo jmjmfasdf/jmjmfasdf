@@ -1,5 +1,5 @@
 ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=250&section=header&text=%22Hello!%20I'm%20Jeongmin%20Seo!%22&fontSize=90
+![header](https://capsule-render.vercel.app/api?type=transparent&color=#B897FF&height=250&section=header&text=%22Hello!%20I'm%20Jeongmin%20Seo!%22&fontSize=70
 )
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello! I'm Jeongmin Seo</h2>
 
