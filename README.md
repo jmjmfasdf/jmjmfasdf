@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=250&section=header&text=Jeongmin%20Seo%20&fontSize=70
 )
-
-<!-- ## 👋 &nbsp;Hello! I'm Jeongmin Seo -->
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>👋 Hello! I'm Jeongmin Seo</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop unique solutions for human beings.\
