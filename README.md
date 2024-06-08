@@ -24,12 +24,20 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
 <br>
 
-### 🔎 Career
-  - Yonsei Univ. **Student council of Dept. of Biotechnology** `2019.03 ~ 2020.12`
+### 🔎 AI
   - Yonsei Univ. Life science **Biotechnology (AI integrated course)** `2019.03 ~`
-  - Yonsei Univ. Nanoscience & Medical engineering Academy **NanoSEA 7th** `2023.03 ~ 2023.06`
-  - Yonsei Univ. Brain & Cognitive Science Academy **Congsci:IN 12th** President `2023.03 ~ 2023.12`
   - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI)** 12th `2023.07 ~ 2024.12`
+  - Yonsei Univ. AI Academy YAI **[2023 Fall YAICON 3rd KSLR](https://github.com/yonsei-YAI)** `2023.07 ~ 2024.12`
+  - Yonsei Univ. AI Academy YAI **[YAI X AI PARK](https://github.com/yonsei-YAI)** `2023.01 ~ 2024.03`
+  - Yonsei Univ. AI Academy YAI **[2024 Spring YAICON 4th AJTKS](https://github.com/yonsei-YAI)** 🥈2nd prize🥈 `2023.07 ~ 2024.12`
+<br>
+
+### 🧪 Bio & BCS 
+  - Yonsei Univ. **Student council of Dept. of Biotechnology** `2019.03 ~ 2020.12`
+  - Yonsei Univ. Brain & Cognitive Science Academy **Congsci:IN 12th** President `2023.03 ~ 2023.12`
+  - Yonsei Univ. Nanoscience & Medical engineering Academy **NanoSEA 7th** `2023.03 ~ 2023.06`
+  - Yonsei Univ. Undergraduate reseach student in **[Microbial biotechnology laboratory](http://www.bahnlab.com/)** `2023.01 ~ 2023.06`
+  - Yonsei Univ. Undergraduate reseach student in **[NetBioLab](https://netbiolab.org/w/Welcome)** `2023.07 ~ 2023.08`
 <br>
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -37,11 +45,11 @@
 <p align="center">
 <a href="https://www.tensorflow.org"target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.tensorflow.org"target="blank">
+<a href="https://www.linkedin.com/in/jeongmin-seo-4716822b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.tensorflow.org"target="blank">
+<a href="https://www.instagram.com/jmin.se0?igsh=Njc3NW1mczYyMGJi&utm_source=qr"target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.tensorflow.org"target="blank">
+<a href="jmme425@yonsei.ac.kr"target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
