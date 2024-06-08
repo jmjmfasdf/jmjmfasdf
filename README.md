@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
 <br>
 
-### 🔎 AI
+### 🔎 &nbsp;AI
   - Yonsei Univ. Life science **Biotechnology (AI integrated course)** `2019.03 ~`
   - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI)** 12th `2023.07 ~ 2024.12`
   - Yonsei Univ. AI Academy YAI **[2023 Fall YAICON 3rd KSLR](https://github.com/yonsei-YAI)** `2023.07 ~ 2024.12`
@@ -32,7 +32,7 @@
   - Yonsei Univ. AI Academy YAI **[2024 Spring YAICON 4th AJTKS](https://github.com/yonsei-YAI)** 🥈2nd prize🥈 `2023.07 ~ 2024.12`
 <br>
 
-### 🧪 Bio & BCS 
+### 🧪 &nbsp;Bio & BCS 
   - Yonsei Univ. **Student council of Dept. of Biotechnology** `2019.03 ~ 2020.12`
   - Yonsei Univ. Brain & Cognitive Science Academy **Congsci:IN 12th** President `2023.03 ~ 2023.12`
   - Yonsei Univ. Nanoscience & Medical engineering Academy **NanoSEA 7th** `2023.03 ~ 2023.06`
