@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://www.r-project.org/"target="blank">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
-<br>
+</p>
 
 ### 🔎 &nbsp;AI
   - Yonsei Univ. Life science **Biotechnology (AI integrated course)** `2019.03 ~`
