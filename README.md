@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=250&section=header&text=Jeongmin%20Seo%20&fontSize=70
 )
+
 <!-- ## 👋 &nbsp;Hello! I'm Jeongmin Seo -->
 
 ### 👨🏻‍💻 &nbsp;About Me
