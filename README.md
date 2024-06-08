@@ -33,7 +33,7 @@
 <br>
 
 ### 🧪 &nbsp;Bio & BCS 
-  - Samyang igdream **Scholarship(bio/food industry)** 1st `2023.05 ~ 2024.12`
+  - Samyang igdream **[Scholarship(bio/food industry)](https://sy-igdream.or.kr/)** 1st `2023.05 ~ 2024.12`
   - Yonsei Univ. **Student council of Dept. of Biotechnology** `2019.03 ~ 2020.12`
   - Yonsei Univ. Brain & Cognitive Science Academy **Congsci:IN 12th** President `2023.03 ~ 2023.12`
   - Yonsei Univ. Nanoscience & Medical engineering Academy **NanoSEA 7th** `2023.03 ~ 2023.06`
