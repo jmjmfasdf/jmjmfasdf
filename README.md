@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=250&section=header&text=Jeongmin%20Seo%20&fontSize=70
-)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jeongmin%20Seo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20interested%20in%20BCS%20and%20AI&descAlignY=51&descAlign=62"/>
+</p>
+
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>👋 Hello! I'm Jeongmin Seo</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
