@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmjmfasdf&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmjmfasdf)](https://github.com/jmjmfasdf)
 
 
 ### 🔎 &nbsp;AI
