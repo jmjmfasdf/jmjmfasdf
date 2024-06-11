@@ -24,6 +24,9 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmjmfasdf&layout=compact)
+
+
 ### 🔎 &nbsp;AI
   - Yonsei Univ. Life science **Biotechnology (AI integrated course)** `2019.03 ~`
   - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI)** 12th `2023.07 ~ 2024.12`
