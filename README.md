@@ -2,7 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jeongmin%20Seo&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20interested%20in%20BCS%20and%20AI&descAlignY=51&descAlign=62"/>
 </p>
 
-
 ### 👋 &nbsp;Hello! I'm Jeongmin Seo</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
