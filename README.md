@@ -29,9 +29,11 @@
 ### 🔎 &nbsp;AI
   - Yonsei Univ. Life science **Biotechnology (AI integrated course)** `2019.03 ~`
   - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI)** 12th `2023.07 ~ 2024.12`
+  - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI)** Vice president `2024.07 ~ 2024.12`
   - Yonsei Univ. AI Academy YAI **[2023 Fall YAICON 3rd KSLR](https://github.com/yonsei-YAI)** `2023.07 ~ 2024.12`
   - Yonsei Univ. AI Academy YAI **[YAI X AI PARK](https://github.com/yonsei-YAI)** `2023.01 ~ 2024.03`
   - Yonsei Univ. AI Academy YAI **[2024 Spring YAICON 4th AJTKS](https://github.com/yonsei-YAI)** 🥈2nd prize🥈 `2023.07 ~ 2024.12`
+  - Yonsei Univ. AI Academy YAI **[YAI X Prevenotics](https://github.com/jmjmfasdf/YAI-X-Prevenotics)** `2024.07 ~ 2024.09`
 <br>
 
 ### 🧪 &nbsp;Bio & BCS 
