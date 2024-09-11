@@ -39,7 +39,6 @@
 ### 🧪 &nbsp;BCS 
   - Yonsei Univ. Brain & Cognitive Science Academy **Congsci:IN** 12th `2023.03 ~ 2023.12`
   - Yonsei Univ. Brain & Cognitive Science Academy **Congsci:IN** President `2023.07 ~ 2023.12`
-  
 <br>
 
 ### 💊 &nbsp;Healthcare
@@ -49,7 +48,8 @@
   - Yonsei Univ. Undergraduate reseach student in **[NetBioLab](https://netbiolab.org/w/Welcome)** `2023.07 ~ 2023.08`
   - Samyang igdream **[Scholarship(bio/food industry)](https://sy-igdream.or.kr/)** 1st `2023.05 ~ 2024.12`
   - Data science engineer in **[Zarathu](https://www.zarathu.com/)** `2024.09 ~ 2024.12`
-    
+<br>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
