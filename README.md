@@ -36,7 +36,7 @@
   - Yonsei Univ. AI Academy YAI **[YAI X Prevenotics](https://github.com/jmjmfasdf/YAI-X-Prevenotics)** `2024.07 ~ 2024.09`
 <br>
 
-### 🧪 &nbsp;Bio & BCS 
+### 🧪 &nbsp;BCS 
   - Samyang igdream **[Scholarship(bio/food industry)](https://sy-igdream.or.kr/)** 1st `2023.05 ~ 2024.12`
   - Yonsei Univ. **Student council of Dept. of Biotechnology** `2019.03 ~ 2020.12`
   - Yonsei Univ. Brain & Cognitive Science Academy **Congsci:IN** 12th `2023.03 ~ 2023.12`
@@ -46,6 +46,8 @@
   - Yonsei Univ. Undergraduate reseach student in **[NetBioLab](https://netbiolab.org/w/Welcome)** `2023.07 ~ 2023.08`
 <br>
 
+### 💊 &nbsp;Healthcare
+  - Data science engineer in **[Zarathu](https://www.zarathu.com/)** `2024.09 ~ 2024.12`
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
