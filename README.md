@@ -11,6 +11,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at jmme425@yonsei.ac.kr! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
@@ -23,8 +24,7 @@
   <a href="https://www.r-project.org/"target="blank">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
 </p>
-
-
+<br>
 
 ### 🔎 &nbsp;AI
   - Yonsei Univ. Life science **Biotechnology (AI integrated course)** `2019.03 ~`
@@ -51,7 +51,6 @@
 <br>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
 <p align="center">
 <a href="https://www.tensorflow.org"target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -62,6 +61,6 @@
 <a href="jmme425@yonsei.ac.kr"target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
+<br>
 -----
 
