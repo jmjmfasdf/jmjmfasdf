@@ -28,7 +28,6 @@
 <br>
 
 ### 🔎 &nbsp;AI
-  - Yonsei Univ. Life science **Biotechnology (AI integrated course)** `2019.03 ~`
   - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI)** 12th `2023.07 ~ 2024.12`
   - Yonsei Univ. AI Academy **[YAI](https://github.com/yonsei-YAI)** Vice president `2024.07 ~ 2024.12`
   - Yonsei Univ. AI Academy YAI **[2023 Fall YAICON 3rd KSLR](https://github.com/yonsei-YAI)** `2023.07 ~ 2024.12`
@@ -37,12 +36,13 @@
   - Yonsei Univ. AI Academy YAI **[YAI X Prevenotics](https://github.com/jmjmfasdf/YAI-X-Prevenotics)** `2024.07 ~ 2024.09`
 <br>
 
-### 🧪 &nbsp;BCS 
+### 🧠 &nbsp;BCS 
   - Yonsei Univ. Brain & Cognitive Science Academy **Congsci:IN** 12th `2023.03 ~ 2023.12`
   - Yonsei Univ. Brain & Cognitive Science Academy **Congsci:IN** President `2023.07 ~ 2023.12`
 <br>
 
 ### 💊 &nbsp;Healthcare
+  - Yonsei Univ. Life science **Biotechnology (AI integrated course)** `2019.03 ~`
   - Yonsei Univ. **Student council of Dept. of Biotechnology** `2019.03 ~ 2020.12`
   - Yonsei Univ. Nanoscience & Medical engineering Academy **NanoSEA** 7th `2023.03 ~ 2023.06`
   - Yonsei Univ. Undergraduate reseach student in **[Microbial biotechnology laboratory](http://www.bahnlab.com/)** `2023.01 ~ 2023.06`
